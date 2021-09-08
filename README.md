@@ -12,12 +12,15 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 - make the discord bot delete toxic messages
 - add text based emotional detection, that could detect negative messages, dooming, etc, and flag it for mods.
 - add an optional feature where the AI changes the message from toxic to loving, using a database of bad words.
-- Add multiple micro-bots (Codename: Illuminati) that could use tensorflow-js and machine learning to detect nudity, and other harmful content and creeps, then ban them permanently.
-- Add a voice-to-text model that could recognize speech, convert it to text, use a racism word based model, detect negativity, and confirm that everything is ok. If not, use a text-to-speech model that states what it has detected wrong, and say what happened. (i.e. Racism detected. Please be nice and friendly. Thank you!) or (i.e. 
+- Add multiple micro-bots (Codename: Illuminati) that could use tensorflow-js and machine learning to detect nudity, and other harmful content and creeps, then optionally bring them before a mod (AI or Human, not decided yet), then ban them permanently. 
+- Add a voice-to-text model that could recognize speech, convert it to text, use a racism word based model, detect negativity, and confirm that everything is ok. If not, use a text-to-speech model that states what it has detected wrong, and say what happened. (i.e. Racism detected. Please be nice and friendly. Thank you!) or lady liberty route (Virtual Court).
 
 # Notes
 Codename: Illuminati needs storage for video recordings. Over the course of several years, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
 
+For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, or a peer-to-peer option like filecoin is possible. Even then, peer-to-peer has security flaws such as reverse-engineering hardware identifiers on the hard disk, or SSD.
+
+(Note to self: Make a discord community for the github community to join so they could help support the development of the project.)
 
 
 # Resources
