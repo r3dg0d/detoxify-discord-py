@@ -15,7 +15,7 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 - make the discord bot delete toxic messages
 - make the discord bot flag the data for mods.
 - add an optional feature where the AI changes the message from toxic to loving, using a database of bad and funny / good words. (nouns, adverbs, adjectives, 
-- Add multiple micro-bots (Codename: Illuminati) that could use tensorflow-js and machine learning to detect nudity, and other harmful content and creeps, then optionally bring them before a mod (AI or Human, not decided yet), then ban them permanently. 
+- Add multiple micro-bots (Codename: Illuminati) that run on VPS and record discord calls permanently. They respond to toxic words, nudity, and other TOS-related things in its own manner. 
 - Add a voice-to-text model that could recognize speech, convert it to text, use a racism word based model, detect negativity, and confirm that everything is ok. If not, use a text-to-speech model that states what it has detected wrong, and say what happened. (i.e. Racism detected. Please be nice and friendly. Thank you!) or lady liberty route (Virtual Court).
 
 # Notes
