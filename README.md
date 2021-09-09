@@ -7,21 +7,28 @@ I plan on making a discord bot which automates all TOS-functions as a whole, and
 A Discord bot that has a variety of TOS-friendly features for discord servers. 
 
 # Features (WIP)
-- Make the bot template 
-- Add ping-pong command to test bot in discord client
+✔️ Make the bot template 
+✔️ Add ping-pong command to test bot in discord client
+- collect data on toxic messages using spybot for discord
+- train emotional based detection for the data with cerebral.js
+- add a list of negative words that the machine could detect, and act upon based on the data.
 - make the discord bot delete toxic messages
-- add text based emotional detection, that could detect negative messages, dooming, etc, and flag it for mods.
-- add an optional feature where the AI changes the message from toxic to loving, using a database of bad words.
+- make the discord bot flag the data for mods.
+- add an optional feature where the AI changes the message from toxic to loving, using a database of bad and funny / good words. (nouns, adverbs, adjectives, 
 - Add multiple micro-bots (Codename: Illuminati) that could use tensorflow-js and machine learning to detect nudity, and other harmful content and creeps, then optionally bring them before a mod (AI or Human, not decided yet), then ban them permanently. 
 - Add a voice-to-text model that could recognize speech, convert it to text, use a racism word based model, detect negativity, and confirm that everything is ok. If not, use a text-to-speech model that states what it has detected wrong, and say what happened. (i.e. Racism detected. Please be nice and friendly. Thank you!) or lady liberty route (Virtual Court).
 
 # Notes
-Codename: Illuminati needs storage for video recordings. Over the course of several years, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
+Codename: Illuminati and detoxify needs storage for video recordings. Over the course of several years, these recordings could use something called: Big Data. I'd recommend making a home data server, having a lot of storage, or using an NAS (network attached storage). These could be pretty pricey depending on how much storage is needed for the ML, and other code for the software. However once the software is pitched and sold to some big discord servers, it could come out to pay for operating costs.
 
-For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, or a peer-to-peer option like filecoin is possible. Even then, peer-to-peer has security flaws such as reverse-engineering hardware identifiers on the hard disk, or SSD.
+Repl.it based on my knowledge doesn't allow npm to access the file system, so it is recommended to make an NAS to store all the data on for training.
 
-(Note to self: Make a discord community for the github community to join so they could help support the development of the project.)
+For security and privacy purposes, cloud storage is not recommended. Local, Home based storage is recommended, or a peer-to-peer option like filecoin is possible. Even then, peer-to-peer has security flaws such as reverse-engineering hardware identifiers on the hard disk, or SSD, unless it is stored as a hash, which makes it harder to bruteforce.
 
+(Note to self: Add source code from repl.it to this github repo.)
+
+# Contribute
+Come join the discord server to contribute to the project: https://discord.gg/4vK2wmEVgx
 
 # Resources
 1. How to code a Discord bot and run it for free in the cloud: https://www.youtube.com/watch?v=7rU_KyudGBY&t=2924s
