@@ -1,5 +1,5 @@
 # Preface
-The internet is the wild west. Anything can happen on here. This is the main reason why most big-tech companies have a TOS (terms-of-service). Some companies (Twitch for instance), are kinda lazy about there TOS. They can't have moderators moderating 24/7 on there platforms. The internet needs an AUTOMATED, easy-to-use AI and Bot to moderate all things TOS related. Otherwise, government will keep bringing big-tech companies into questioning about privacy laws, which, to be fair are pretty fair. 
+The internet is the wild west. Anything can happen on here. This is the main reason why most big-tech companies have a TOS (terms-of-service). Some companies (Twitch for instance), are kinda lazy about there TOS. They can't have moderators moderating 24/7 on there platforms. The internet needs an AUTOMATED, easy-to-use AI that can moderate everything.
 
 I plan on making a discord bot which automates all TOS-functions as a whole, and ensuring discord servers have a safe, friendly, and joyful community. Without all the negativity, nudity, etc. which I have noticed on a few discord servers.
 
