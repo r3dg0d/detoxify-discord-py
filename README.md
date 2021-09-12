@@ -7,8 +7,8 @@ I plan on making a discord bot which automates all TOS-functions as a whole, and
 A Discord bot that has a variety of TOS-friendly features for discord servers. 
 
 # Features (WIP)
-✔️ Make the bot template 
-✔️ Add ping-pong command to test bot in discord client
+- Make the bot template in python
+- Add ping-pong command to test bot in discord client
 - collect data on toxic messages using spybot for discord
 - train emotional based detection for the data with cerebral.js
 - add a list of negative words that the machine could detect, and act upon based on the data.
