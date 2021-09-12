@@ -7,11 +7,14 @@ I plan on making a discord bot which automates all TOS-functions as a whole, and
 A Discord bot that has a variety of TOS-friendly features for discord servers. 
 
 # Features (WIP)
-- Make the bot template in python
-- Add ping-pong command to test bot in discord client
-- collect data on toxic messages using spybot for discord
-- train emotional based detection for the data with cerebral.js
+✔️ Make the bot template in python
+✔️ Add ping-pong command to test bot in discord client
+- import cerebrum.js to project code
+- mess around with different data in cerebrum
+- train emotional based detection for the data with cerebrum.js
 - add a list of negative words that the machine could detect, and act upon based on the data.
+- create a debug mode that tells what the ai detects for each message.
+- 
 - make the discord bot delete toxic messages
 - make the discord bot flag the data for mods.
 - add an optional feature where the AI changes the message from toxic to loving, using a database of bad and funny / good words. (nouns, adverbs, adjectives, 
