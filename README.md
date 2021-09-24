@@ -11,8 +11,7 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 - Mess around with different data in cerebrum
 - Train emotional based detection for the data with cerebrum.js
 - Add a list of negative words that the machine could detect, and act upon based on the data.
-- Create a debug mode that tells what emotion the ai detects for each message.
-- Make the discord bot detect hatespeech, and other related content, and delete it.
+- Make the discord bot detect hatespeech, and other related content, and delete it. (using a dictionary of bad words, slurs, etc.)
 - Make the discord bot flag the data for mods.
 - Add an optional feature where the AI changes the subject. (What he was trying to say, was I need some chicken nuggies.)
 - Add a built-in URL to virustotal scan in the bot, that scans all URL's for malware, or uses a built-in link list with links to potential malware URL's.
@@ -28,4 +27,3 @@ Come join the discord server to contribute to the project: https://discord.gg/4v
 4. How to send DM to mods containing info on message: https://stackoverflow.com/questions/61028561/how-to-dm-user-using-discord-js
 5. How to make a Discord Bot React to a message with a flag: https://www.youtube.com/watch?v=VtwkUb4XFMk
 6. Piracy Subreddit (for finding links that pirates use): https://www.reddit.com/r/Piracy/
-7. Fast-text for emotional detection in text and debug mode: https://ai.facebook.com/tools/fasttext
