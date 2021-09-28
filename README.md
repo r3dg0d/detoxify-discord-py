@@ -13,7 +13,7 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 - Add a list of negative words that the machine could detect, and act upon based on the data.
 - Make the discord bot detect hatespeech, and other related content, and delete it. (using a dictionary of bad words, slurs, etc.)
 - Make the discord bot flag the data for mods.
-- Add an optional feature where the AI changes the subject. (What he was trying to say, was I need some chicken nuggies.)
+- Add an optional feature where the AI deletes the message and posts something funny like "What he was trying to say, was I need some chicken nuggies" or "Why did the robot cross the road? To learn how to walk... bwahahahaha!"
 - Add a built-in URL to virustotal scan in the bot, that scans all URL's for malware, or uses a built-in link list with links to potential malware URL's.
 - Add a anti-piracy feature that detects if a link to illegal content from thepiratebay or other piracy websites is detected.
 
