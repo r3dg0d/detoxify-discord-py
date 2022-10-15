@@ -1,24 +1,22 @@
 # Preface
 I plan on making a discord bot which automates removing all toxic content as a whole, and ensuring discord servers have a safe, friendly, and joyful community. Without all the negativity, illegal content, etc. which I have noticed on a few discord servers. As well as an emotional detection tool that detects negative emotions, and cheers the user up with memes.
 
+Coded in either node-js or python and hosted on a VPS.
+
 # detoxify-discord-js
 A Discord bot that has a variety of TOS-friendly features for discord servers. 
 
 # Features (WIP)
-✔️ Make the bot template in python
-✔️ Add ping-pong command to test bot in discord client
-- Import cerebrum.js to project code
-- Mess around with different data in cerebrum
-- Train emotional based detection for the data with cerebrum.js
+- Make the bot template in python
+- Add ping-pong command to test bot in discord client
+- Mess around with different data, SPECIFICALLY Research into discord chat logs.
+- Train emotional based detection for the data with AI.
 - Add a list of negative words that the machine could detect, and act upon based on the data.
 - Make the discord bot detect hatespeech, and other related content, and delete it. (using a dictionary of bad words, slurs, etc.)
 - Make the discord bot flag the data for mods.
 - Add an optional feature where the AI deletes the message and posts something funny like "What he was trying to say, was I need some chicken nuggies" or "Why did the robot cross the road? To learn how to walk... bwahahahaha!"
 - Add a built-in URL to virustotal scan in the bot, that scans all URL's for malware, or uses a built-in link list with links to potential malware URL's.
 - Add a anti-piracy feature that detects if a link to illegal content from thepiratebay or other piracy websites is detected.
-
-# Contribute
-Come join the discord server to contribute to the project: https://discord.gg/4vK2wmEVgx
 
 # Resources
 1. How to code a Discord bot and run it for free in the cloud: https://www.youtube.com/watch?v=7rU_KyudGBY&t=2924s
