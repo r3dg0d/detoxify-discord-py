@@ -1,5 +1,5 @@
 # Preface
-I plan on making a discord bot which automates removing all toxic content as a whole, and ensuring discord servers have a safe, friendly, and joyful community. Without all the negativity, illegal content, etc. which I have noticed on a few discord servers. As well as an emotional detection tool that detects negative emotions, and cheers the user up with memes.
+I plan on making a discord bot which automates removing all toxic content as a whole, and ensuring discord servers have a safe, friendly, and joyful community. Without all the negativity, illegal content, etc. which I have noticed on a few discord servers. As well as an emotional detection tool that detects negative emotions, and cheers the user up with memes. Can also detect when a user is bored and send an interesting article from reddit as an embed.
 
 Coded in either node-js or python and hosted on a VPS.
 
