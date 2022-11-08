@@ -7,7 +7,6 @@ Coded in either node-js or python and hosted on a VPS.
 A Discord bot that has a variety of TOS-friendly features for discord servers. 
 
 # Features (WIP)
-- Make the bot template in python
 - Add ping-pong command to test bot in discord client
 - Mess around with different data, SPECIFICALLY Research into discord chat logs.
 - Train emotional based detection for the data with AI.
@@ -17,6 +16,7 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 - Add an optional feature where the AI deletes the message and posts something funny like "What he was trying to say, was I need some chicken nuggies" or "Why did the robot cross the road? To learn how to walk... bwahahahaha!"
 - Add a built-in URL to virustotal scan in the bot, that scans all URL's for malware, or uses a built-in link list with links to potential malware URL's.
 - Add a anti-piracy feature that detects if a link to illegal content from thepiratebay or other piracy websites is detected.
+- Detect likelihood of NSFW images and remove them, as well as warn the user why it was removed.
 
 # Resources
 1. How to code a Discord bot and run it for free in the cloud: https://www.youtube.com/watch?v=7rU_KyudGBY&t=2924s
@@ -25,3 +25,5 @@ A Discord bot that has a variety of TOS-friendly features for discord servers.
 4. How to send DM to mods containing info on message: https://stackoverflow.com/questions/61028561/how-to-dm-user-using-discord-js
 5. How to make a Discord Bot React to a message with a flag: https://www.youtube.com/watch?v=VtwkUb4XFMk
 6. Piracy Subreddit (for finding links that pirates use): https://www.reddit.com/r/Piracy/
+7. Steal data for training AI models, specifically discord chat logs
+8. Tensorflow.js preferably with node.js and the discord.js library. Running on a VPS.
